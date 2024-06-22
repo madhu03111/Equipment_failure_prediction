@@ -1,5 +1,5 @@
 
-# Equipment Failure Detection Using Machine Learning
+# Equipment Failure Prediction Using Machine Learning
 
 ### Overview
 
@@ -79,7 +79,7 @@ Machine learning models, particularly the Random Forest classifier, demonstrate 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/madhu03111/Equipment_failure_detection
+   git clone https://github.com/madhu03111/Equipment_failure_prediction
    cd equipment-failure-detection
    ```
 
