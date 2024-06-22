@@ -79,19 +79,17 @@ Machine learning models, particularly the Random Forest classifier, demonstrate 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/madhu03111/Equipment_failure_detection.git
+   git clone https://github.com/madhu03111/Equipment_failure_detection
    cd equipment-failure-detection
    ```
 
 2. **Install Dependencies**
-   ```sh
-   pip install -r requirements.txt
-   ```
+  
 
 3. **Run the Analysis**
    Ensure the dataset (`predictive_maintenance.csv`) is in the same directory as the script.
    ```sh
-   python equipment_failure_detection.py
+   python equip_failure.ipynb
    ```
 
 4. **View Results**
